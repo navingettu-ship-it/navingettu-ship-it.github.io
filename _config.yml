@@ -1,0 +1,29 @@
+title: "Daily Health Picks"
+description: "Honest, research-backed reviews of the best health supplements in 2026."
+url: "https://navingettu-ship-it.github.io"
+baseurl: ""
+
+author: "Daily Health Picks"
+email: ""
+
+permalink: /:categories/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      affiliate_tag: "AFFILIATE-TAG"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
