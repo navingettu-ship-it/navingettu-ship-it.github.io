@@ -64,7 +64,7 @@ Nordic Naturals manufactures in Norway under strict European quality standards, 
 - You're taking omega-3s casually and aren't strict about bioavailability
 - Budget is a primary concern — Kirkland Signature fish oil (ethyl ester, but third-party tested) delivers reasonable omega-3s at a fraction of the cost
 
-<a href="https://www.amazon.com/dp/B002CQU564?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B002CQU564?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 <div class="pros-cons">
   <div class="pros">

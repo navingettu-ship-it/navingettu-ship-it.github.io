@@ -21,7 +21,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      affiliate_tag: "AFFILIATE-TAG"
+      affiliate_tag: "ngdailyhealth-20"
 
 exclude:
   - Gemfile

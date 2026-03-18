@@ -45,7 +45,7 @@ Jarrow uses the genuine KSM-66 extract at 300mg per capsule — take one or two 
 
 At roughly $15-18 for 120 capsules, this is the most cost-effective way to get the actual studied extract.
 
-<a href="https://www.amazon.com/dp/B01BMYXF18?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B01BMYXF18?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 <div class="pros-cons">
   <div class="pros">
@@ -74,7 +74,7 @@ Nootropics Depot is one of the few supplement companies that publishes third-par
 
 Higher priced than Jarrow, but the transparency is unmatched in this category.
 
-<a href="https://www.amazon.com/dp/B07PHXQ9SN?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07PHXQ9SN?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 <div class="pros-cons">
   <div class="pros">
@@ -102,7 +102,7 @@ Physician's Choice combines 1950mg of ashwagandha root powder with black pepper 
 
 A good option if you respond better to whole-root preparations.
 
-<a href="https://www.amazon.com/dp/B07BNVWGBZ?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B07BNVWGBZ?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 ---
 

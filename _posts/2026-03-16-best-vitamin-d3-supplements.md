@@ -37,7 +37,7 @@ At roughly $13 for 360 softgels, the cost-per-dose is exceptional: under $0.04 p
 
 **Best for:** People with confirmed or suspected deficiency, those with limited sun exposure, adults over 50.
 
-<a href="https://www.amazon.com/dp/B00GB85JR4?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B00GB85JR4?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 <div class="pros-cons">
   <div class="pros">
@@ -68,7 +68,7 @@ Why does K2 matter? Vitamin D increases calcium absorption, and K2 directs that 
 
 **Best for:** Long-term supplementers who want the full cardiovascular and bone benefit.
 
-<a href="https://www.amazon.com/dp/B00KKYYBGU?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B00KKYYBGU?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 <div class="pros-cons">
   <div class="pros">
@@ -97,7 +97,7 @@ Sports Research hits the sweet spot between NatureWise's value and Thorne's prem
 
 The MK-7 form of K2 has a longer half-life in the body and is considered by some researchers to be more effective for bone and cardiovascular benefits. USP verified.
 
-<a href="https://www.amazon.com/dp/B01M0MXEQE?tag=AFFILIATE-TAG" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
+<a href="https://www.amazon.com/dp/B01M0MXEQE?tag=ngdailyhealth-20" class="buy-btn" rel="nofollow sponsored" target="_blank">Check price on Amazon →</a>
 
 <div class="pros-cons">
   <div class="pros">
