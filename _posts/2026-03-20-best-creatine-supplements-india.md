@@ -150,3 +150,9 @@ Nutrabay is India's largest dedicated supplements retailer, and their house-bran
   <h3>Bottom Line</h3>
   <p>Creatine monohydrate is the most cost-effective performance supplement available. <strong>AS-IT-IS</strong> wins on pure value — the cheapest price per gram with a clean label. <strong>MuscleBlaze</strong> wins on brand trust and availability. <strong>Nutrabay</strong> wins on third-party verified purity. All three are solid choices — pick based on your priority.</p>
 </div>
+
+---
+
+**Related reading:**
+- [Best Whey Protein in India](/supplements/best-whey-protein-india/) — creatine and whey are the two supplements with the strongest evidence for muscle building; they stack well together
+- [Best Magnesium Supplements in India](/supplements/best-magnesium-supplements-india/) — magnesium supports muscle recovery and reduces cramps during training

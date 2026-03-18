@@ -106,3 +106,9 @@ Most Indians are significantly under the recommended intake from diet alone — 
   <h3>Bottom Line</h3>
   <p>For most people in India, <strong>WOW Life Science Omega-3</strong> is the practical choice — high fish oil content, strong local reviews, and competitive pricing. If international brand credibility matters more to you than price, <strong>Optimum Nutrition Fish Oil</strong> is a reliable step up. Either way, check the EPA+DHA numbers on the label — not just the total fish oil figure.</p>
 </div>
+
+---
+
+**Related reading:**
+- [Best Vitamin D3 Supplements in India](/supplements/best-vitamin-d3-supplements/) — D3 and Omega-3 together are the two most impactful daily supplements for heart and immune health
+- [Best Magnesium Supplements in India](/supplements/best-magnesium-supplements-india/) — magnesium supports the cardiovascular benefits of omega-3

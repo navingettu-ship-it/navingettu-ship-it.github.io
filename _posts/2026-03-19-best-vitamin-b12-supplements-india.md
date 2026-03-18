@@ -121,3 +121,9 @@ Energy and cognitive improvements typically begin within **2–4 weeks** of cons
   <h3>Bottom Line</h3>
   <p>If you're vegetarian in India and not supplementing B12, you almost certainly should be. <strong>Carbamide Forte Methylcobalamin 1500 mcg</strong> is the obvious choice — right form, right dose, strong track record, competitive price. Always choose methylcobalamin over cyanocobalamin. The price difference is negligible; the quality difference is not.</p>
 </div>
+
+---
+
+**Related reading:**
+- [Best Vitamin D3 Supplements in India](/supplements/best-vitamin-d3-supplements/) — D3 deficiency is as widespread as B12 deficiency in India; most vegetarians need both
+- [Best Ashwagandha Supplements in India](/supplements/ashwagandha-review/) — if fatigue persists after correcting B12, ashwagandha addresses stress-related energy depletion

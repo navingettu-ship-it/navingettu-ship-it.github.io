@@ -149,3 +149,9 @@ Ashwagandha is generally well-tolerated, but avoid it if:
   <h3>Bottom Line</h3>
   <p>Ashwagandha works — but only if you use the right extract at the right dose. <strong>KSM-66 at 300–600mg/day</strong> is what the research is built on. <strong>Rasayanam KSM-66</strong> is the best all-round choice for most Indians — credible brand, right extract, right dose. If you want maximum dose per rupee, <strong>BBETTER's 600mg capsule</strong> is the smartest buy. Skip any product that just lists "ashwagandha root powder" without specifying extract type and withanolide percentage.</p>
 </div>
+
+---
+
+**Related reading:**
+- [Best Magnesium Supplements in India](/supplements/best-magnesium-supplements-india/) — magnesium glycinate pairs exceptionally well with ashwagandha for sleep and stress
+- [Best Vitamin B12 Supplements in India](/supplements/best-vitamin-b12-supplements-india/) — B12 deficiency causes fatigue that is often mistaken for chronic stress

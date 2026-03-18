@@ -106,3 +106,9 @@ A simple blood test (25-hydroxyvitamin D) costs ₹500–1500 at most diagnostic
   <h3>Bottom Line</h3>
   <p>For most Indians, <strong>Carbamide Forte D3+K2</strong> is the obvious starting point — vegetarian-friendly, solid formulation, and well-priced. If you want a premium Indian brand with a minimal ingredient list, <strong>Himalayan Organics</strong> is the better-packaged option. Either way, the D3+K2 combination is the right call for long-term supplementation.</p>
 </div>
+
+---
+
+**Related reading:**
+- [Best Magnesium Supplements in India](/supplements/best-magnesium-supplements-india/) — magnesium and D3 work together for bone health and sleep
+- [Best Vitamin B12 Supplements in India](/supplements/best-vitamin-b12-supplements-india/) — another critical deficiency affecting most Indians
